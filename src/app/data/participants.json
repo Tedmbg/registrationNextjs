@@ -1,0 +1,27 @@
+[
+  {
+    "employeeId": "EMP001",
+    "employeeName": "Tedkz",
+    "gender": "Male"
+  },
+  {
+    "employeeId": "EMP002",
+    "employeeName": "Jane Smith",
+    "gender": "Female"
+  },
+  {
+    "employeeId": "EMP003",
+    "employeeName": "Chris",
+    "gender": "Prefer not to say"
+  },
+  {
+    "employeeId": "232",
+    "employeeName": "red",
+    "gender": "Other"
+  },
+  {
+    "employeeId": "EA888",
+    "employeeName": "Golf GTI",
+    "gender": "Male"
+  }
+]
